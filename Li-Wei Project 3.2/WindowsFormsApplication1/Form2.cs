@@ -10,14 +10,16 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Form1 : Form
+    public partial class BarChart : Form
     {
-        public Form1()
+        public BarChart()
         {
             InitializeComponent();
         }
 
+        private void CloseGraph_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
-
-//random test

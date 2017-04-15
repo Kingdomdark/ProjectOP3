@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Form1
+    partial class MainMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -63,6 +63,7 @@
             this.ShowGraph.TabIndex = 0;
             this.ShowGraph.Text = "Show Graph";
             this.ShowGraph.UseVisualStyleBackColor = true;
+            this.ShowGraph.Click += new System.EventHandler(this.ShowGraph_Click);
             // 
             // IJsselmonde
             // 
@@ -213,6 +214,7 @@
             this.BarChart.TabIndex = 32;
             this.BarChart.Text = "Bar Chart";
             this.BarChart.UseVisualStyleBackColor = true;
+            this.BarChart.CheckedChanged += new System.EventHandler(this.BarChart_CheckedChanged);
             // 
             // PieChart
             // 
@@ -223,6 +225,7 @@
             this.PieChart.TabIndex = 33;
             this.PieChart.Text = "Pie Chart";
             this.PieChart.UseVisualStyleBackColor = true;
+            this.PieChart.CheckedChanged += new System.EventHandler(this.PieChart_CheckedChanged);
             // 
             // MotorvoertuigenDiefstal
             // 
@@ -294,17 +297,17 @@
             this.TwoK10.Text = "2010";
             this.TwoK10.UseVisualStyleBackColor = true;
             // 
-            // 2011
+            // TwoK11
             // 
             this.TwoK11.AutoSize = true;
             this.TwoK11.Location = new System.Drawing.Point(764, 224);
-            this.TwoK11.Name = "2011";
-            this.TwoK11.Size = new System.Drawing.Size(98, 21);
+            this.TwoK11.Name = "TwoK11";
+            this.TwoK11.Size = new System.Drawing.Size(62, 21);
             this.TwoK11.TabIndex = 41;
             this.TwoK11.Text = "2011";
             this.TwoK11.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -334,8 +337,8 @@
             this.Controls.Add(this.KralingenCrooswijk);
             this.Controls.Add(this.IJsselmonde);
             this.Controls.Add(this.ShowGraph);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "MainMenu";
+            this.Text = "Main Menu";
             this.ResumeLayout(false);
             this.PerformLayout();
 
