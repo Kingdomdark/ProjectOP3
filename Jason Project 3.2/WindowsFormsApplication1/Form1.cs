@@ -15,342 +15,332 @@ namespace WindowsFormsApplication1
     {
         public MainMenu()
         {
-            using (var conn = new NpgsqlConnection("Host=localhost;Port=5432;Username=postgres;Password=1;Database=Project3"))
-            {
-                conn.Open();
-            }
+            //using (var conn = new NpgsqlConnection("Host=localhost;Username=postgres;Password=1;Database=Project3"))
+            //{
+            //    conn.Open();
+            //}
             InitializeComponent();
         }
-        public void SelectData()
+
+        private void TwoK6_CheckedChanged(object sender, EventArgs e)
         {
-            using (var conn = new NpgsqlConnection("Host=localhost;Port=5432;Username=postgres;Password=1;Database=Project3"))
+            if(!panel1.Visible)
             {
-                conn.Open();
-                String query = "select city, temp_lo, date from weather";
-                NpgsqlCommand command = new NpgsqlCommand(query, conn);
-                this.richTextBox1.AppendText("RESULT SelectData():\n");
-                try
-                {
-                    NpgsqlDataReader dr = command.ExecuteReader();
-                    while (dr.Read())
-                    {
-                        richTextBox1.AppendText(string(dr[0]) + "\t");
-                        richTextBox1.AppendText(Convert.ToString(dr[1]) + "\t");
-                        richTextBox1.AppendText((DateTime(dr[2])->ToString("dd MMM yyyy") + "\n"));
-                    }
-                    richTextBox1.AppendText("\n");
-                }
-                finally
-                {
-                    conn.Close();
-                }
+                panel1.Visible = true;
+            }
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
+            {
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
-        // Parameters let you dynamically insert values into SQL queries at run-time.  
-        public void DynamicInsert()
+        private void TwoK7_CheckedChanged(object sender, EventArgs e)
         {
-            using (var conn = new NpgsqlConnection("Host=localhost;Port=5432;Username=postgres;Password=1;Database=Project3"))
+            if (!panel1.Visible)
             {
-                conn.Open();
-                String query = "select temp_lo, temp_hi from weather where temp_lo = :value1";
-                // declare parameter in query string  
-                Npgsql.NpgsqlCommand command = new NpgsqlCommand(query, conn);
-                // add parameter to the parameter collection of the command specifying its type  
-                command.Parameters.Add(new NpgsqlParameter("value1", NpgsqlTypes.NpgsqlDbType.Integer));
-                // add a value to it  
-                command.Parameters[0].Value = 37;       // must exist in the database  
-                                                        // execute the command as usual  
-                try
-                {
-                    NpgsqlDataReader dr = command.ExecuteReader();
-                    richTextBox1.AppendText("RESULT DynamicInsert():\n");
-                    while (dr.Read())
-                    {
-                        for (int i = 0; i < dr.FieldCount; i++)
-                        {
-                            richTextBox1.AppendText(Convert.ToString(dr[i]));
-                            richTextBox1.AppendText("\t");
-                        }
-                        richTextBox1.AppendText("\n");
-                    }
-                }
-                finally
-                {
-                    conn.Close();
-                }
+                panel1.Visible = true;
             }
-        }
-                
-        private void ShowGraph_Click(object sender, EventArgs e)
-        {
-            if (BarChart.Checked == true)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                if (MotorvoertuigenDiefstal.Checked == true)
-                {
-                    if (IJsselmonde.Checked == true)
-                    {
-
-                    }
-                    else if (KralingenCrooswijk.Checked == true)
-                    {
-
-                    }
-                    else if (Pernis.Checked == true)
-                    {
-
-                    }
-                    else if (HillegersbergSchiebroek.Checked == true)
-                    {
-
-                    }
-                    else if (Feijenoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamNoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamCentrum.Checked == true)
-                    {
-
-                    }
-                    else if (Rozenburg.Checked == true)
-                    {
-
-                    }
-                    else if (Delfshaven.Checked == true)
-                    {
-
-                    }
-                    else if (PrinsAlexander.Checked == true)
-                    {
-
-                    }
-                    else if (HoekVanHolland.Checked == true)
-                    {
-
-                    }
-                    else if (Overschie.Checked == true)
-                    {
-
-                    }
-                    else if (Hoogvliet.Checked == true)
-                    {
-
-                    }
-                    else if (Charlois.Checked == true)
-                    {
-
-                    }
-                }
-                else if (MotorBromSnorFietsen.Checked == true)
-                {
-                    if (IJsselmonde.Checked == true)
-                    {
-
-                    }
-                    else if (KralingenCrooswijk.Checked == true)
-                    {
-
-                    }
-                    else if (Pernis.Checked == true)
-                    {
-
-                    }
-                    else if (HillegersbergSchiebroek.Checked == true)
-                    {
-
-                    }
-                    else if (Feijenoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamNoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamCentrum.Checked == true)
-                    {
-
-                    }
-                    else if (Rozenburg.Checked == true)
-                    {
-
-                    }
-                    else if (Delfshaven.Checked == true)
-                    {
-
-                    }
-                    else if (PrinsAlexander.Checked == true)
-                    {
-
-                    }
-                    else if (HoekVanHolland.Checked == true)
-                    {
-
-                    }
-                    else if (Overschie.Checked == true)
-                    {
-
-                    }
-                    else if (Hoogvliet.Checked == true)
-                    {
-
-                    }
-                    else if (Charlois.Checked == true)
-                    {
-
-                    }
-                }
-                
-
-                var BarChart = new BarChart();
-                BarChart.Show();
-            }
-            else if (PieChart.Checked == true)
-            {
-                if (MotorvoertuigenDiefstal.Checked == true)
-                {
-                    if (IJsselmonde.Checked == true)
-                    {
-
-                    }
-                    else if (KralingenCrooswijk.Checked == true)
-                    {
-
-                    }
-                    else if (Pernis.Checked == true)
-                    {
-
-                    }
-                    else if (HillegersbergSchiebroek.Checked == true)
-                    {
-
-                    }
-                    else if (Feijenoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamNoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamCentrum.Checked == true)
-                    {
-
-                    }
-                    else if (Rozenburg.Checked == true)
-                    {
-
-                    }
-                    else if (Delfshaven.Checked == true)
-                    {
-
-                    }
-                    else if (PrinsAlexander.Checked == true)
-                    {
-
-                    }
-                    else if (HoekVanHolland.Checked == true)
-                    {
-
-                    }
-                    else if (Overschie.Checked == true)
-                    {
-
-                    }
-                    else if (Hoogvliet.Checked == true)
-                    {
-
-                    }
-                    else if (Charlois.Checked == true)
-                    {
-
-                    }
-                }
-                else if (MotorBromSnorFietsen.Checked == true)
-                {
-                    if (IJsselmonde.Checked == true)
-                    {
-
-                    }
-                    else if (KralingenCrooswijk.Checked == true)
-                    {
-
-                    }
-                    else if (Pernis.Checked == true)
-                    {
-
-                    }
-                    else if (HillegersbergSchiebroek.Checked == true)
-                    {
-
-                    }
-                    else if (Feijenoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamNoord.Checked == true)
-                    {
-
-                    }
-                    else if (RotterdamCentrum.Checked == true)
-                    {
-
-                    }
-                    else if (Rozenburg.Checked == true)
-                    {
-
-                    }
-                    else if (Delfshaven.Checked == true)
-                    {
-
-                    }
-                    else if (PrinsAlexander.Checked == true)
-                    {
-
-                    }
-                    else if (HoekVanHolland.Checked == true)
-                    {
-
-                    }
-                    else if (Overschie.Checked == true)
-                    {
-
-                    }
-                    else if (Hoogvliet.Checked == true)
-                    {
-
-                    }
-                    else if (Charlois.Checked == true)
-                    {
-
-                    }
-                }
-                var PieChart = new PieChart();
-                PieChart.Show();
-            }
-
-        }
-
-        private void BarChart_CheckedChanged(object sender, EventArgs e)
-        {
-            if (BarChart.Checked == true)
-            {
-                PieChart.Checked = false;
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
-        private void PieChart_CheckedChanged(object sender, EventArgs e)
+        private void TwoK8_CheckedChanged(object sender, EventArgs e)
         {
-            if (PieChart.Checked == true)
+            if (!panel1.Visible)
             {
-                BarChart.Checked = false;
+                panel1.Visible = true;
+            }
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
+            {
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
-        private void MotorvoertuigenDiefstal_CheckedChanged_1(object sender, EventArgs e)
+
+        private void TwoK9_CheckedChanged(object sender, EventArgs e)
+        {
+            if (!panel1.Visible)
+            {
+                panel1.Visible = true;
+            }
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
+            {
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
+            }
+        }
+
+        private void TwoK10_CheckedChanged(object sender, EventArgs e)
+        {
+            if (!panel1.Visible)
+            {
+                panel1.Visible = true;
+            }
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
+            {
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
+            }
+        }
+
+        private void TwoK11_CheckedChanged(object sender, EventArgs e)
+        {
+            if (!panel1.Visible)
+            {
+                panel1.Visible = true;
+            }
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
+            {
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
+            }
+        }
+
+        private void IJsselmonde_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void KralingenCrooswijk_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Delfshaven_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Pernis_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void HillegersbergSchiebroek_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void PrinsAlexander_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void RotterdamNoord_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Feijenoord_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void RotterdamCentrum_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+            && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+            && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+            && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Rozenburg_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void HoekVanHolland_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Overschie_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Hoogvliet_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void Charlois_CheckedChanged(object sender, EventArgs e)
+        {
+            if (IJsselmonde.Checked == false && KralingenCrooswijk.Checked == false && Delfshaven.Checked == false && Pernis.Checked == false
+                && HillegersbergSchiebroek.Checked == false && PrinsAlexander.Checked == false && RotterdamNoord.Checked == false
+                && RotterdamCentrum.Checked == false && Feijenoord.Checked == false && Rozenburg.Checked == false
+                && HoekVanHolland.Checked == false && Overschie.Checked == false && Hoogvliet.Checked == false && Charlois.Checked == false)
+            {
+                panel2.Visible = false;
+            }
+            else
+            {
+                panel2.Visible = true;
+            }
+        }
+
+        private void MotorvoertuigenDiefstal_CheckedChanged(object sender, EventArgs e)
         {
             if (MotorvoertuigenDiefstal.Checked == true)
             {
@@ -358,12 +348,45 @@ namespace WindowsFormsApplication1
             }
         }
 
-        private void MotorBromSnorFietsen_CheckedChanged_1(object sender, EventArgs e)
+        private void MotorBromSnorFietsen_CheckedChanged(object sender, EventArgs e)
         {
             if (MotorBromSnorFietsen.Checked == true)
             {
                 MotorvoertuigenDiefstal.Checked = false;
             }
+        }
+
+        private void BarChart_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (BarChart.Checked == true)
+            {
+                PieChart.Checked = false;
+                panel3.Visible = true;
+            }
+        }
+
+        private void PieChart_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (PieChart.Checked == true)
+            {
+                BarChart.Checked = false;
+                panel3.Visible = true;
+            }
+        }
+
+        private void ShowGraph_Click_1(object sender, EventArgs e)
+        {
+            if (BarChart.Checked == true)
+            {
+                var BarChart = new BarChart();
+                BarChart.Show();
+            }
+            if (PieChart.Checked == true)
+            {
+                var PieChart = new PieChart();
+                PieChart.Show();
+            }
+
         }
     }
 }
