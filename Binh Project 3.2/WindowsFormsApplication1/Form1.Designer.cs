@@ -28,11 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ShowGraph = new System.Windows.Forms.Button();
-            this.BarChart = new System.Windows.Forms.CheckBox();
-            this.PieChart = new System.Windows.Forms.CheckBox();
-            this.MotorvoertuigenDiefstal = new System.Windows.Forms.CheckBox();
-            this.MotorBromSnorFietsen = new System.Windows.Forms.CheckBox();
             this.TwoK6 = new System.Windows.Forms.CheckBox();
             this.TwoK7 = new System.Windows.Forms.CheckBox();
             this.TwoK8 = new System.Windows.Forms.CheckBox();
@@ -54,67 +49,17 @@
             this.Pernis = new System.Windows.Forms.CheckBox();
             this.KralingenCrooswijk = new System.Windows.Forms.CheckBox();
             this.IJsselmonde = new System.Windows.Forms.CheckBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.MotorBromSnorFietsen = new System.Windows.Forms.CheckBox();
+            this.MotorvoertuigenDiefstal = new System.Windows.Forms.CheckBox();
+            this.PieChart = new System.Windows.Forms.CheckBox();
+            this.BarChart = new System.Windows.Forms.CheckBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.ShowGraph = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // ShowGraph
-            // 
-            this.ShowGraph.Location = new System.Drawing.Point(438, 223);
-            this.ShowGraph.Margin = new System.Windows.Forms.Padding(2);
-            this.ShowGraph.Name = "ShowGraph";
-            this.ShowGraph.Size = new System.Drawing.Size(89, 28);
-            this.ShowGraph.TabIndex = 0;
-            this.ShowGraph.Text = "Show Graph";
-            this.ShowGraph.UseVisualStyleBackColor = true;
-            this.ShowGraph.Click += new System.EventHandler(this.ShowGraph_Click);
-            // 
-            // BarChart
-            // 
-            this.BarChart.AutoSize = true;
-            this.BarChart.Location = new System.Drawing.Point(353, 292);
-            this.BarChart.Margin = new System.Windows.Forms.Padding(2);
-            this.BarChart.Name = "BarChart";
-            this.BarChart.Size = new System.Drawing.Size(70, 17);
-            this.BarChart.TabIndex = 32;
-            this.BarChart.Text = "Bar Chart";
-            this.BarChart.UseVisualStyleBackColor = true;
-            this.BarChart.CheckedChanged += new System.EventHandler(this.BarChart_CheckedChanged);
-            // 
-            // PieChart
-            // 
-            this.PieChart.AutoSize = true;
-            this.PieChart.Location = new System.Drawing.Point(561, 292);
-            this.PieChart.Margin = new System.Windows.Forms.Padding(2);
-            this.PieChart.Name = "PieChart";
-            this.PieChart.Size = new System.Drawing.Size(69, 17);
-            this.PieChart.TabIndex = 33;
-            this.PieChart.Text = "Pie Chart";
-            this.PieChart.UseVisualStyleBackColor = true;
-            this.PieChart.CheckedChanged += new System.EventHandler(this.PieChart_CheckedChanged);
-            // 
-            // MotorvoertuigenDiefstal
-            // 
-            this.MotorvoertuigenDiefstal.AutoSize = true;
-            this.MotorvoertuigenDiefstal.Location = new System.Drawing.Point(353, 51);
-            this.MotorvoertuigenDiefstal.Margin = new System.Windows.Forms.Padding(2);
-            this.MotorvoertuigenDiefstal.Name = "MotorvoertuigenDiefstal";
-            this.MotorvoertuigenDiefstal.Size = new System.Drawing.Size(141, 17);
-            this.MotorvoertuigenDiefstal.TabIndex = 34;
-            this.MotorvoertuigenDiefstal.Text = "Motorvoertuigen Diefstal";
-            this.MotorvoertuigenDiefstal.UseVisualStyleBackColor = true;
-            this.MotorvoertuigenDiefstal.CheckedChanged += new System.EventHandler(this.MotorvoertuigenDiefstal_CheckedChanged_1);
-            // 
-            // MotorBromSnorFietsen
-            // 
-            this.MotorBromSnorFietsen.AutoSize = true;
-            this.MotorBromSnorFietsen.Location = new System.Drawing.Point(530, 51);
-            this.MotorBromSnorFietsen.Margin = new System.Windows.Forms.Padding(2);
-            this.MotorBromSnorFietsen.Name = "MotorBromSnorFietsen";
-            this.MotorBromSnorFietsen.Size = new System.Drawing.Size(129, 17);
-            this.MotorBromSnorFietsen.TabIndex = 35;
-            this.MotorBromSnorFietsen.Text = "Motor-, Brom-, Fietsen";
-            this.MotorBromSnorFietsen.UseVisualStyleBackColor = true;
-            this.MotorBromSnorFietsen.CheckedChanged += new System.EventHandler(this.MotorBromSnorFietsen_CheckedChanged_1);
             // 
             // TwoK6
             // 
@@ -364,6 +309,80 @@
             this.IJsselmonde.Text = "IJsselmonde";
             this.IJsselmonde.UseVisualStyleBackColor = true;
             // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.panel3);
+            this.panel2.Controls.Add(this.MotorBromSnorFietsen);
+            this.panel2.Controls.Add(this.MotorvoertuigenDiefstal);
+            this.panel2.Controls.Add(this.PieChart);
+            this.panel2.Controls.Add(this.BarChart);
+            this.panel2.Location = new System.Drawing.Point(311, 15);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(360, 359);
+            this.panel2.TabIndex = 43;
+            // 
+            // MotorBromSnorFietsen
+            // 
+            this.MotorBromSnorFietsen.AutoSize = true;
+            this.MotorBromSnorFietsen.Location = new System.Drawing.Point(204, 50);
+            this.MotorBromSnorFietsen.Margin = new System.Windows.Forms.Padding(2);
+            this.MotorBromSnorFietsen.Name = "MotorBromSnorFietsen";
+            this.MotorBromSnorFietsen.Size = new System.Drawing.Size(129, 17);
+            this.MotorBromSnorFietsen.TabIndex = 39;
+            this.MotorBromSnorFietsen.Text = "Motor-, Brom-, Fietsen";
+            this.MotorBromSnorFietsen.UseVisualStyleBackColor = true;
+            // 
+            // MotorvoertuigenDiefstal
+            // 
+            this.MotorvoertuigenDiefstal.AutoSize = true;
+            this.MotorvoertuigenDiefstal.Location = new System.Drawing.Point(27, 50);
+            this.MotorvoertuigenDiefstal.Margin = new System.Windows.Forms.Padding(2);
+            this.MotorvoertuigenDiefstal.Name = "MotorvoertuigenDiefstal";
+            this.MotorvoertuigenDiefstal.Size = new System.Drawing.Size(141, 17);
+            this.MotorvoertuigenDiefstal.TabIndex = 38;
+            this.MotorvoertuigenDiefstal.Text = "Motorvoertuigen Diefstal";
+            this.MotorvoertuigenDiefstal.UseVisualStyleBackColor = true;
+            // 
+            // PieChart
+            // 
+            this.PieChart.AutoSize = true;
+            this.PieChart.Location = new System.Drawing.Point(235, 291);
+            this.PieChart.Margin = new System.Windows.Forms.Padding(2);
+            this.PieChart.Name = "PieChart";
+            this.PieChart.Size = new System.Drawing.Size(69, 17);
+            this.PieChart.TabIndex = 37;
+            this.PieChart.Text = "Pie Chart";
+            this.PieChart.UseVisualStyleBackColor = true;
+            // 
+            // BarChart
+            // 
+            this.BarChart.AutoSize = true;
+            this.BarChart.Location = new System.Drawing.Point(27, 291);
+            this.BarChart.Margin = new System.Windows.Forms.Padding(2);
+            this.BarChart.Name = "BarChart";
+            this.BarChart.Size = new System.Drawing.Size(70, 17);
+            this.BarChart.TabIndex = 36;
+            this.BarChart.Text = "Bar Chart";
+            this.BarChart.UseVisualStyleBackColor = true;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.ShowGraph);
+            this.panel3.Location = new System.Drawing.Point(72, 189);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(200, 100);
+            this.panel3.TabIndex = 44;
+            // 
+            // ShowGraph
+            // 
+            this.ShowGraph.Location = new System.Drawing.Point(56, 36);
+            this.ShowGraph.Margin = new System.Windows.Forms.Padding(2);
+            this.ShowGraph.Name = "ShowGraph";
+            this.ShowGraph.Size = new System.Drawing.Size(89, 28);
+            this.ShowGraph.TabIndex = 1;
+            this.ShowGraph.Text = "Show Graph";
+            this.ShowGraph.UseVisualStyleBackColor = true;
+            // 
             // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -375,29 +394,22 @@
             this.Controls.Add(this.TwoK8);
             this.Controls.Add(this.TwoK7);
             this.Controls.Add(this.TwoK6);
-            this.Controls.Add(this.MotorBromSnorFietsen);
-            this.Controls.Add(this.MotorvoertuigenDiefstal);
-            this.Controls.Add(this.PieChart);
-            this.Controls.Add(this.BarChart);
-            this.Controls.Add(this.ShowGraph);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MainMenu";
             this.Text = "Main Menu";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button ShowGraph;
-        private System.Windows.Forms.CheckBox BarChart;
-        private System.Windows.Forms.CheckBox PieChart;
-        private System.Windows.Forms.CheckBox MotorvoertuigenDiefstal;
-        private System.Windows.Forms.CheckBox MotorBromSnorFietsen;
         private System.Windows.Forms.CheckBox TwoK6;
         private System.Windows.Forms.CheckBox TwoK7;
         private System.Windows.Forms.CheckBox TwoK8;
@@ -419,6 +431,13 @@
         private System.Windows.Forms.CheckBox Pernis;
         private System.Windows.Forms.CheckBox KralingenCrooswijk;
         private System.Windows.Forms.CheckBox IJsselmonde;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.CheckBox MotorBromSnorFietsen;
+        private System.Windows.Forms.CheckBox MotorvoertuigenDiefstal;
+        private System.Windows.Forms.CheckBox PieChart;
+        private System.Windows.Forms.CheckBox BarChart;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button ShowGraph;
     }
 }
 
