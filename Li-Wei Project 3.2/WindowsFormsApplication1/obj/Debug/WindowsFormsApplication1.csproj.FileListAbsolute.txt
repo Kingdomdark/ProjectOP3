@@ -27,3 +27,6 @@ C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\Windo
 C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
 C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
 C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
