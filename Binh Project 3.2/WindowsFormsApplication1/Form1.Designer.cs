@@ -311,11 +311,11 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.panel3);
             this.panel2.Controls.Add(this.MotorBromSnorFietsen);
             this.panel2.Controls.Add(this.MotorvoertuigenDiefstal);
             this.panel2.Controls.Add(this.PieChart);
             this.panel2.Controls.Add(this.BarChart);
+            this.panel2.Controls.Add(this.panel3);
             this.panel2.Location = new System.Drawing.Point(311, 15);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(360, 359);
