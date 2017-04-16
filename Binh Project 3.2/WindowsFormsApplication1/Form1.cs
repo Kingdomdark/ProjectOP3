@@ -74,10 +74,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK6.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                TwoK6.Checked = false;
                 panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
@@ -87,10 +92,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK7.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                TwoK7.Checked = false;
                 panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
@@ -100,10 +110,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK8.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                TwoK8.Checked = false;
                 panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
@@ -113,10 +128,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK9.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                TwoK9.Checked = false;
                 panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
@@ -126,10 +146,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK10.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                TwoK10.Checked = false;
                 panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
 
@@ -139,18 +164,15 @@ namespace WindowsFormsApplication1
             {
                 panel1.Visible = true;
             }
-            if (TwoK11.Checked == false)
+            if (TwoK11.Checked == false && TwoK10.Checked == false && TwoK9.Checked == false && TwoK8.Checked == false && TwoK7.Checked == false && TwoK6.Checked == false)
             {
-                if (panel1.Visible)
-                {
-                    panel1.Visible = true;
-                    TwoK11.Checked = false;
-                }
-                else
-                {
-                    TwoK11.Checked = false;
-                    panel1.Visible = false;
-                }
+                panel1.Visible = false;
+                TwoK11.Checked = false;
+                TwoK10.Checked = false;
+                TwoK9.Checked = false;
+                TwoK8.Checked = false;
+                TwoK7.Checked = false;
+                TwoK6.Checked = false;
             }
         }
     }
