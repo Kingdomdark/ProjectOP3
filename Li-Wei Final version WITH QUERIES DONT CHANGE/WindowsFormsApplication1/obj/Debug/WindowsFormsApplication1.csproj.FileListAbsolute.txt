@@ -1,0 +1,227 @@
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\jasontjauw\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liwei\OneDrive\Documenten\GitHub\ProjectOP3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\liwei\Desktop\Li-Wei Project 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JasonTjauw\Documents\GitHub\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Li-Wei Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JasonTjauw\Desktop\school\Project 3 Data-App\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\labin\Desktop\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\labin\OneDrive\Documenten\GitHub\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JasonTjauw\Desktop\ProjectOP3\Jason Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BarChart.resources
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PieChart.resources
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ricky\Desktop\ProjectOP3\Binh Project 3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liwei\Desktop\Ricky Project 3.2.Liwei\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\Mono.Security.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\Npgsql.pdb
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liwei\Desktop\Li-Wei Final version  edited\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
